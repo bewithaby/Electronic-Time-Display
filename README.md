@@ -4,4 +4,4 @@
 
 <br>
 
-![digital_watch]()
+![digital_watch](![image](https://github.com/bewithaby/Electronic-Time-Display/assets/172017780/3a296dbe-2c61-4fb4-a9d1-33661d50c959))
